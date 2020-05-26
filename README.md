@@ -1,14 +1,20 @@
 # run-buddy
 run-buddy
+<<<<<<< HEAD
 
-Purpose
-A website that offers fitness training services.
+# Run Buddy, Inc
 
-Built With
-HTML
-CSS
-Website
-https://codecycler.github.io/run-buddy/
+## Purpose
+A website that offers fitness training services. 
 
-Contribution
-Made with ❤️ by Will Braat
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
