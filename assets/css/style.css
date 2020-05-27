@@ -125,7 +125,6 @@ footer a {
   width: 50%;
 }
 
-
 section {
     padding: 60px;
   }
@@ -170,7 +169,18 @@ section {
     max-width: 100%;
   }
 
-  
-  
+  .trainer-bio h3{
+    font-size: 28px;
+    
+  }
+  .trainer-bio h4{
+    font-size: 22px;
+    
+  }
+  .trainer-bio{
+    line-height: 1.0;
+    
+  }
+
 
   
