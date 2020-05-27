@@ -115,10 +115,62 @@ footer a {
   color: #fce138;
 }
 
+.flex-row {
+  display: flex;
+}
+.section_title {
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 0 auto 35px auto;
+  width: 50%;
+}
+
+
 section {
     padding: 60px;
   }
+  .step {
+    margin: 50px auto;
+    padding-bottom: 50px;
+    width: 80%;
+    border-bottom: 1px solid #39a6b2;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .step info{
+    flex: 2 70%;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
 
+  }
+  .step-text p{
+    font-size: 18px;
+  }
+  .step-text h3 {
+    flex: 1 30%;
+  } 
+  .step-text h4 {
+    font-size: 26px;
+    line-height: 1.5;
+    color: #024e76;
+  }
+  .step-img {
+    flex: 1 12%;
+    margin-right: 20px;
+  }
+
+  .step-text {
+    flex: 12;
+  }
+
+  step-img img {
+    max-width: 100%;
+  }
+
+  
   
 
   
